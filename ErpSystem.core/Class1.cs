@@ -1,10 +1,14 @@
-﻿using System;
+using System;
+
+using System.Collections.Generic;
+using System.Text;
 
 namespace ErpSystem.core
 {
-    public class Class1
+    class Class1
     {
-                public int MyProperty { get; set; }
+        public int sameh { get; set; }
+
 
     }
 }
