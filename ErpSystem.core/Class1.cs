@@ -8,7 +8,7 @@ namespace ErpSystem.core
     class Class1
     {
 
-        public string eihab {get; set;}
+        public string tameem {get; set;}
         public int MyProperty { get; set; }
 
         public int test { set; get; }
