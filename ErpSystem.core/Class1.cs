@@ -7,5 +7,7 @@ namespace ErpSystem.core
         public string eihab {get; set;}
         public int MyProperty { get; set; }
 
+        public int test { set; get; }
+
     }
 }
